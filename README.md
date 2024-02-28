@@ -1,13 +1,9 @@
-## Foundry
+## BitConnect - Bitcoin Account Abstraction
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
-Foundry consists of:
+BitConnect abstracts the account of Bitcoin accounts through smart contracts, allowing direct management and use of Bitcoin addresses and assets on the smart contract chain.
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+
 
 ## Documentation
 
