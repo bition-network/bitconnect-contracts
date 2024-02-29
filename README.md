@@ -1,9 +1,8 @@
 ## BitConnect - Bitcoin Account Abstraction
 
-
 BitConnect abstracts the account of Bitcoin accounts through smart contracts, allowing direct management and use of Bitcoin addresses and assets on the smart contract chain.
 
-
+This code is adapted from the original project at https://github.com/eth-infinitism/account-abstraction
 
 ## Documentation
 
